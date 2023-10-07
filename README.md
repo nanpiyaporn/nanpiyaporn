@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on the events hub student project with my team 
 - 🌱 I’m currently learning the Java program language 
 
-🤝 Connect with me
-LinkedIn | Youtube | 
+### 🤝 Connect with me <br>
+[LinkedIn](https://www.linkedin.com/in/piyapornp/) | Youtube | 
 
 
 🧠 Languages and Tools
