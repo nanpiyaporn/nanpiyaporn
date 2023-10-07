@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello World! <br>
+## 👋 My name is Piyaporn Puangprasert. My nickname is Nan.<br>
+## I am a Business Analytics and Information Technology who learns who code
 
-<!--
-**Nan227/Nan227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on the events hub student project with my team 
+- 🌱 I’m currently learning the Java program language 
 
-Here are some ideas to get you started:
+🤝 Connect with me
+LinkedIn | Youtube | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 Languages and Tools
+
+Primary Languages:	Java Python JavaScript SQL
+Primary Frameworks & Tools:	 Nuxtjs Express.js
+Currently Learning:	Java
+I also know: MongoDb | Bootstrap | Adobe Xd
