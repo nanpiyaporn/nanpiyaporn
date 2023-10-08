@@ -1,6 +1,6 @@
 # Hello World! <br>
 ## 👋 My name is Piyaporn Puangprasert. My nickname is Nan.<br>
-## I am a Business Analytics and Information Technology who learns who code
+## I am a Business Analytics and Information Technology who learns to code
 
 - 🔭 I’m currently working on the events hub student project with my team 
 - 🌱 I’m currently learning the Java program language 
