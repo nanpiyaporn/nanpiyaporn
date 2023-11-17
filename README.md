@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning the Java program language 
 
 ### 🤝 Connect with me <br>
-![LinkedIn](https://www.linkedin.com/in/piyapornp/), ![YouTube](https://www.youtube.com/@nanny2277), ![Facebook](https://www.facebook.com/nanPiyapornPP), ![Instragram](https://www.instagram.com/puangprasert_nan/)
+[LinkedIn](https://www.linkedin.com/in/piyapornp/), [YouTube](https://www.youtube.com/@nanny2277), [Facebook](https://www.facebook.com/nanPiyapornPP), [Instragram](https://www.instagram.com/puangprasert_nan/)
 
 
 🧠 Languages and Tools
 
-Primary Languages:	Java, Python, JavaScript, SQL, and React
-Primary Frameworks & Tools:	 Node.js and Express.js
-Currently Learning:	Java and Python
+Primary Languages:	Java, Python, JavaScript, SQL, and React <br>
+Primary Frameworks & Tools:	 Node.js and Express.js <br>
+Currently Learning:	Java and Python <br>
 I also know: MongoDb | Bootstrap | Adobe Xd
