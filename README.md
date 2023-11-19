@@ -1,7 +1,7 @@
 # Hello World! 
 ## 👋 My name is Piyaporn Puangprasert. My nickname is Nan.
 ## I am a Business Analytics and Information Technology (BAIT) major student at Rutgers University(New Brunswick, NJ).
-## Also, I got accepted into the Master of Information Technology and Analytics (MITA) program
+## Master of Information Technology and Analytics (MITA) program soon to be.
 
 - 🔭 I’m currently working on the events hub student project with my team 
 - 🌱 I’m currently learning the Java program language 
