@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning the Java program language 
 
 ### 🤝 Connect with me <be>
-[![linkedIn](https://skillicons.dev/icons?i=linkin)](https://www.linkedin.com/in/piyapornp/),[![Instragram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/puangprasert_nan/), [![youtube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@nanny2277),[![facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/nanPiyapornPP),[![medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@piyapornp) 
+[![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piyapornp/),[![Instragram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/puangprasert_nan/), [![youtube](https://skillicons.dev/icons?i=yt)](https://www.youtube.com/@nanny2277),[![facebook](https://skillicons.dev/icons?i=fb)](https://www.facebook.com/nanPiyapornPP),[![medium](https://skillicons.dev/icons?i=md)](https://medium.com/@piyapornp) 
 
 ### 
 
