@@ -12,9 +12,9 @@
 
 
 🧠 Languages and Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=s,html,css,py,r,react" />
+    <img src="https://skillicons.dev/icons?i=s,html,css,py,r,react,gcp" />
   </a>
 </p>
 
