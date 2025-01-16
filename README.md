@@ -4,7 +4,7 @@
 
 
 ### 🤝 Connect with me <be>
-[![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piyapornp/),[![Instragram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/puangprasert_nan/), [![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@nanpiyaporn),[![FaceBook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/nanPiyapornPP),[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@piyapornp) 
+[linkedIn](https://www.linkedin.com/in/piyapornp/),[Instragram](https://www.instagram.com/puangprasert_nan/), [YouTube](https://www.youtube.com/@nanpiyaporn),[FaceBook](https://www.facebook.com/nanPiyapornPP),[Medium](https://medium.com/@piyapornp) 
 
 ### 
 
