@@ -1,6 +1,41 @@
-# Hello World! 
-## 👋 My name is Piyaporn Puangprasert. My nickname is Nan.
-## I am studying a Ms.Computer Science at Rutgers University(New Brunswick, NJ).
+# I'm a Master's student in Computer Science (AI/ML focus) at Rutgers University.
+### I'm passionate about Artificial Intelligence, Cloud Engineering, and Full-Stack Development. <br>
+### Currently building my skills through hands-on projects, research, and certifications in AWS & Google Cloud.<br>
+### My goal: Become a job-ready AI/Cloud Engineer by 2025!
+> “Stay curious. Learn 1% every day. Your dream tech career is built one project at a time.” – Nan 🚀
+### 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanpiyaporn&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanpiyaporn&theme=light" alt="Contribution Graph"/>
+</p>
+
+### 🌟 Featured Projects
+
+- 🧠 [AI Stock Predictor](https://github.com/nanpiyaporn/ai-stock-predictor) – Predict stock trends using LSTM in Python.
+- ☁️ [Cloud Resume Challenge](https://github.com/nanpiyaporn/cloud-resume) – Deployed portfolio website using AWS services.
+- 📊 [Data Visualization Dashboard](https://github.com/nanpiyaporn/data-viz-dashboard) – Interactive charts using Plotly & Flask.
+
 
 
 ### 🤝 Connect with me <be>
