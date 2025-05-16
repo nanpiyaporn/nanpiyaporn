@@ -1,9 +1,17 @@
-# I'm a Master's student in Computer Science (AI/ML focus) at Rutgers University.
-### I'm passionate about Artificial Intelligence, Cloud Engineering, and Full-Stack Development. <br>
-### Currently building my skills through hands-on projects, research, and certifications in AWS & Google Cloud.<br>
-### My goal: Become a job-ready AI/Cloud Engineer by 2025!
-> “Stay curious. Learn 1% every day. Your dream tech career is built one project at a time.” – Nan 🚀
-### 🛠️ Languages and Tools
+##  Hi there! I'm Piyaporn Puangprasert — but you can call me Nan 
+
+- I'm currently pursuing my Master's degree in Computer Science with a concentration in Artificial Intelligence and Machine Learning at Rutgers University.
+
+- I'm a career-changer with a background in Business Analytics and Environmental Science, now fully focused on building innovative tech solutions.
+
+- I specialize in AI engineering, cloud computing (AWS & Google Cloud), and web development. My learning journey is hands-on, project-driven, and aligned with industry demands.
+
+- I'm actively developing my portfolio through real-world projects, academic research, and certification training. I love solving problems with data, deploying scalable systems, and sharing my knowledge through content creation.
+
+🎯 My mission: To become a job-ready AI/Cloud Engineer by 2025 and help businesses unlock the power of intelligent technologies. <br>
+> “Stay curious. Learn 1% every day. Your dream tech career is built one project at a time.” – Nan 
+
+###  Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
