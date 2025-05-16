@@ -28,25 +28,25 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nanpiyaporn&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanpiyaporn&theme=light" alt="Contribution Graph"/>
 </p>
 
-### 🌟 Featured Projects
+### Featured Projects
 
-- 🧠 [AI Stock Predictor](https://github.com/nanpiyaporn/ai-stock-predictor) – Predict stock trends using LSTM in Python.
-- ☁️ [Cloud Resume Challenge](https://github.com/nanpiyaporn/cloud-resume) – Deployed portfolio website using AWS services.
-- 📊 [Data Visualization Dashboard](https://github.com/nanpiyaporn/data-viz-dashboard) – Interactive charts using Plotly & Flask.
+- 📊 [Walmart Stock Predictor](https://github.com/nanpiyaporn/wmtPredictStock2025) – Predict stock trends using Monte Carlo simulations in Colab.
+- 📊 [New cremates Challenge](https://github.com/nanpiyaporn/matesCRUDV2) – Deployed CRUD build new cremates.
+- 📊 [Flash Card Game](https://github.com/nanpiyaporn/flashcardGames) – Interactive flash card using React.
 
 
 
-### 🤝 Connect with me <be>
+### Connect with me <be>
 
 <p align="center">
   <a href="https://medium.com/@piyapornp">
